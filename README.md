@@ -1,2 +1,4 @@
-# Bookmark_Applicatioin
-Basic JavaScript App Edit Add topics
+# Website_Bookmark_Applicatioin
+It's a very basic website bookmark application using pure javascript. It uses the HTML5 local storage to store data(here website name and url) on user's browser.
+
+
